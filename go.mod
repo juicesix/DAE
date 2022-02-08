@@ -1,4 +1,4 @@
-module Dae
+module github.com/juicesix/DAE
 
 go 1.16
 
